@@ -1,0 +1,23 @@
+[package]
+name = "heveg0x"
+version = "1.0.0"
+edition = "xxxx"
+authors = ["heveg0x"]
+description = "A Rust Loader for x86 and x64 binaries"
+
+[dependencies]
+colored = "2"
+reqwest = { version = "0.12", features = ["blocking", "rustls-tls"] }
+[target.'cfg(windows)'.dependencies]
+windows = { version = "0.56", features = [
+    "Win32_Foundation",
+    "Win32_Security",
+    "Win32_System_Console",
+    "Win32_System_Memory",
+    "Win32_System_Threading",
+    "Win32_System_LibraryLoader",
+] }
+
+[[bin]]
+name = "heveg0x"
+path = "src/main.rs"
