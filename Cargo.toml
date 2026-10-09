@@ -1,7 +1,7 @@
 [package]
 name = "heveg0x"
 version = "1.0.0"
-edition = "xxxx"
+edition = "2021"
 authors = ["heveg0x"]
 description = "A Rust Loader for x86 and x64 binaries"
 
