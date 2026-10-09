@@ -23,7 +23,7 @@ const BANNER: &str = r#"
                      /____/          
 "#;
 
-const DESCRIPTION: &str = "Author: \nGitHub: https://github.com/";
+const DESCRIPTION: &str = "Author:0xforwh4t/heveg0x \nGitHub: https://github.com/0xforwh4t/heveg0x";
 
 const USAGE: &str = "Example:
 \tIronPE.exe --x86 <FilePath>
