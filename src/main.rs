@@ -26,9 +26,9 @@ const BANNER: &str = r#"
 const DESCRIPTION: &str = "Author:0xforwh4t/heveg0x \nGitHub: https://github.com/0xforwh4t/heveg0x";
 
 const USAGE: &str = "Example:
-\tIronPE.exe --x86 <FilePath>
-\tIronPE.exe --x64 <FilePath>
-\tIronPE.exe --coffee
+\theveg0x.exe --x86 <FilePath>
+\theveg0x.exe --x64 <FilePath>
+\theveg0x.exe --coffee
 ";
 
 const COFFEE: &str = r#"
