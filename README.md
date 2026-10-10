@@ -1,9 +1,9 @@
 # heveg0x
 
 
-# Cross-Compile Rust for Windows on Debian Linux
+# Cross-Compile Rust for Windows on Linux
 
-Compile a Rust project on Debian Linux and generate a native Windows `.exe` executable without running Windows.
+Compile a Rust project on Linux and generate a native Windows `.exe` executable Windows.
 
 This guide uses the **`x86_64-pc-windows-gnu`** Rust target with the MinGW-w64 cross-compilation toolchain to build 64-bit Windows applications.
 
