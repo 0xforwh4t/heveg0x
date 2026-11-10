@@ -221,4 +221,3 @@ Your Windows executable will be generated in:
 target/x86_64-pc-windows-gnu/release/
 ```
 
-**Result:** A native 64-bit Windows `.exe` compiled from your Rust source code on Debian Linux.
