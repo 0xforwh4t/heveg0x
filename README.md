@@ -1,7 +1,7 @@
 # heveg0x
 
 
-# Cross-Compile Rust for Windows 
+# Cross-Compile Rust for Windows Defender Bypass
 
 Compile a Rust project on Linux and generate a native Windows `.exe` executable Windows.
 
