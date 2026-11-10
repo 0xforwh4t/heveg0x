@@ -1,7 +1,7 @@
 # heveg0x
 
 
-# Cross-Compile Rust for Windows on Linux
+# Cross-Compile Rust for Windows 
 
 Compile a Rust project on Linux and generate a native Windows `.exe` executable Windows.
 
